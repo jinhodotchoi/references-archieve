@@ -40,6 +40,8 @@
     <li><a href="https://www.hojunin.com/">https://www.hojunin.com/</a></li>
     <li><a href="https://tech.wonderwall.kr/1">https://tech.wonderwall.kr/1</a></li>
     <li><a href="https://dev.classmethod.jp/author/lee-byonghun/">https://dev.classmethod.jp/author/lee-byonghun/</a></li>
+    <li><a href="https://seokju.me/">https://seokju.me/</a></li>
+    <li><a href="https://www.dev-bbak.site/blog">https://www.dev-bbak.site/blog</a></li>
   </ul>
 </details>
 
